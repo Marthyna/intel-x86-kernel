@@ -1,0 +1,3 @@
+break message_queue.c:158
+
+set exec-wrapper logging enabled

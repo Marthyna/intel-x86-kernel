@@ -1,0 +1,3 @@
+break test16
+
+set exec-wrapper logging enabled

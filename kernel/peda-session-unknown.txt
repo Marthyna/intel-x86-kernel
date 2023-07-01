@@ -1,0 +1,3 @@
+break test11
+
+set exec-wrapper logging enabled
